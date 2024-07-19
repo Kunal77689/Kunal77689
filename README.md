@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **ksikka@Mun.ca**
 
- <h1>Fun fact Why do programmers prefer dark mode? Because light attracts bugs! 🐛</h1>
-
+ <h1 align="center">Fun fact <br/>Why do programmers prefer dark mode? Because light attracts bugs! 🐛</h1>
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-sikka-015192207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-sikka-015192207/" height="30" width="40" /></a>
