@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ksikka@Mun.ca**
 
- <h1>Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 🐛**</h2>
+ <h1>Fun fact Why do programmers prefer dark mode? Because light attracts bugs! 🐛</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
