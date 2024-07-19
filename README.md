@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Apache Kafka open source project**
 
-- 🌱 I’m currently learning **microservices and automation using K8, Jenkins**
+- 🌱 I’m currently learning **microservices and automation K8, Docker, Podman, Jenkins**
 
 - 👨‍💻 All of my projects are available at [http://portfoliokunal.netlify.app/](http://portfoliokunal.netlify.app/)
 
