@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Sikka</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
-- 🔭 I’m currently working on **Apache Kafka open source project**
 
 - 🌱 I’m currently learning **microservices and automation K8, Docker, Podman, Jenkins**
 
