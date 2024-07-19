@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal77689&label=Profile%20views&color=0e75b6&style=flat" alt="kunal77689" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal77689" alt="kunal77689" /></a> </p>
+
 
 - 🔭 I’m currently working on **Apache Kafka open source project**
 
