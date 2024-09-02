@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **microservices and automation K8, Docker, Podman, Jenkins**
 
-- 👨‍💻 All of my projects are available at [http://portfoliokunal.netlify.app/](http://portfoliokunal.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-kunalsikka.web.app/)
 
 - 📫 How to reach me **ksikka@Mun.ca**
 
